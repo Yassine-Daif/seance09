@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="description"
-        content="Ma page À propos pour démontrer que je sais utilisé GIT avec plus d'informations sur moi à propos de moi">
+        content="Ma page À propos pour démontrer que je sais utilisé GhUIT avec plus d'informations sur moi à propos de moi">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>À propos</title>
     <link rel="stylesheet" href="style.css">
