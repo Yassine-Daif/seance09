@@ -26,7 +26,7 @@
     <p>Mon numéro mmi est "25b06" donc "mmi25b06"</p>
     <p class="date-maj">Page mise en ligne le 19/05/2026 à 15h58</p>
     <footer>
-        <p>&copy; 2023 Ma page. Tous droits réservés.</p>
+        <p>&copy; 2026 Ma page. Tous droits réservés.</p>
     </footer>
 </body>
 

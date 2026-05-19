@@ -22,7 +22,7 @@
     <h1>Ma page qui confirme que je sais utilisé GIT</h1>
     <img src="images/cat-valid.webp" alt="Chat validé" class="hero-img">
     <footer>
-        <p>&copy; 2023 Ma page. Tous droits réservés.</p>
+        <p>&copy; 2026 Ma page. Tous droits réservés.</p>
     </footer>
 </body>
 
